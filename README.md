@@ -1,0 +1,2 @@
+# Sales-Analyzer
+Analyzes sales
