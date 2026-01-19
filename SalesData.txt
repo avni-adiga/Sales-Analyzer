@@ -1,0 +1,9 @@
+8
+"Artemis",150
+"Beecher",200
+"Carina",140
+"Daffy",230
+"Eliza",230
+"Frodo",200
+"Grodd",120
+"Hogarth",230
